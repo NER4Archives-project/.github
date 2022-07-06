@@ -10,6 +10,6 @@
 
 ## For project participants / Pour les participants du projet
 
-<img src="mybox_inria.png">
+<img src="https://github.com/NER4Archives-project/.github/blob/main/profile/mybox_inria.png?raw=true">
 
 * [INRIA-MyBox (*Guidelines*, gestion des documents, rapports, présentations etc.) [permission requise]](https://mybox.inria.fr/library/cca1a417-7e6a-4f0d-ba1f-17715a5eda5a/NER4Archives/)
