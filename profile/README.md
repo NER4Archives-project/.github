@@ -6,7 +6,7 @@
 
 - :fr: Développements réalisés en commun avec les Archives Nationales de France sur les méthodes de reconnaissance et de liage des entités nommées dans les instruments de recherche XML-EAD.
 
-![workflow-n4a](workflow_n4a.drawio.png)
+![workflow-n4a](https://github.com/NER4Archives-project/.github/blob/main/profile/workflow_n4a.drawio.png?raw=true)
 
 ## For project participants / Pour les participants du projet
 
