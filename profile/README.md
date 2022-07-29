@@ -8,7 +8,7 @@
 
 ![workflow-n4a](https://github.com/NER4Archives-project/.github/blob/main/profile/workflow_n4a.drawio.png?raw=true)
 
-## 🤗 Hugging Face NER4Archives organisation (models, spaces)
+## 🤗 NER4Archives organisation (models, HF spaces)
 
 Follow this [link](https://huggingface.co/ner4archives)
 
